@@ -1,0 +1,10 @@
+{
+  "defaultCommand": "vimdefault",
+  "commands": {
+    "vimdefault": {
+      "scriptType": "bash",
+      "scriptPath": "vimdefault.sh",
+      "vars": {}
+    }
+  }
+}
